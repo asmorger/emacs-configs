@@ -1,6 +1,6 @@
 ;;; -*- lexical-binding: t; -*-
 
-(add-to-list 'custom-theme-load-path "~/.config/emacs/themes/")
+(add-to-list 'custom-theme-load-path "~/.dotfiles/my-emacs/themes/")
 ;; (load-theme 'doom-gruvbox-material t)
 
 
