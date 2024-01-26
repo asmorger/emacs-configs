@@ -7,6 +7,8 @@
   :config
   (global-undo-tree-mode 1))
 
+(setq undo-tree-history-directory-alist '(("." . "~/.emacs.d/undo")))
+
 (defun dw/evil-hook ()
   (dolist (mode '(custom-mode
                   eshell-mode

@@ -38,7 +38,7 @@
 ;;     doom-gruvbox-material-palette     "material") ; or original (defaults to material)
 
 ;;(setq doom-theme 'doom-laserwave)
-(setq doom-theme 'doom-miramare)
+;;(setq doom-theme 'doom-miramare)
 
 ;; This determines the style of line numbers in effect. If set to `nil', line
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
